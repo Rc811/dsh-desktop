@@ -1,0 +1,16 @@
+node_modules/
+vendor/deepseek-harness/
+data/
+tools/tesseract/
+tools/ffmpeg/
+config.json
+.local.json
+launch.log
+*.log
+.env
+.DS_Store
+Thumbs.db
+corepack-home/
+data/corepack/
+data/sessions/
+data/media-inbox/

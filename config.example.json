@@ -1,0 +1,17 @@
+{
+  "balanceAlertEnabled": true,
+  "balanceAlertPercent": 5,
+  "balancePeak": {},
+  "balanceAlerted": {},
+  "skinId": "midnight",
+  "customSkinDir": null,
+  "customBackground": null,
+  "userSkinDir": null,
+  "sessionRoot": null,
+  "disabledPlugins": [],
+  "closeToTray": true,
+  "proxyEnabled": false,
+  "proxyActiveId": "",
+  "proxies": [],
+  "proxyNoProxy": "localhost,127.0.0.1,::1"
+}
